@@ -82,17 +82,18 @@ Follow these simple steps to set up your development environment:
 That's it! You're all set up and ready to go!
 
 Now, start the development server by running the following command: npm run dev
+
 Begin building your React application with Three.js!
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - **Team MERN - Tezeract**: Credits the MERN team at Tezeract for their contributions and support.
-  Tezeract Team: Credits the Tezeract team for their contributions and support in the exploration of React + Three.js integration.
 
-Additionally, two major libraries were discovered during the exploration:
+- Additionally, two major libraries were discovered during the exploration:
 
-@react-three/fiber: A React renderer for Three.js, simplifying the integration of Three.js scenes into React applications.
-@react-three/drei: A collection of useful hooks, components, and utilities for @react-three/fiber, enhancing development productivity.
+- @react-three/fiber: A React renderer for Three.js, simplifying the integration of Three.js scenes into React applications.
+
+- @react-three/drei: A collection of useful hooks, components, and utilities for @react-three/fiber, enhancing development productivity.
 
 ## 📄 Document <a name = "documnet"></a>
 
